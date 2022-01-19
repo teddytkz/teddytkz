@@ -18,6 +18,5 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=teddytkz alt=teddytkz /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddytkz&layout=compact&theme=vue-dark)](https://github.com/teddytkz/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=teddytkz&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/teddytkz/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddytkz&count_private=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=teddytkz&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/teddytkz/github-readme-stats)
 
