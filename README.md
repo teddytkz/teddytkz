@@ -20,3 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddytkz&layout=compact&theme=vue-dark)](https://github.com/teddytkz/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=teddytkz&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/teddytkz/github-readme-stats)
 
+![Dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddytkz&show_icons=true&count_private=true)
