@@ -4,7 +4,7 @@
 ```
 ### Languages and Tools:
 
-<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
+<img align="left" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Php" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -19,13 +19,13 @@
 <img align="left" alt="NextJS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <!-- <img align="left" alt="ReactJs" width="50px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/react/react.png" /> -->
 <img align="left" alt="Flask" width="50px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flask/flask.png" />
-<br>
+<br><br><br><br><br>
 <br>
 <br>
 <br>
 
-```
-```
+
+## Github Stat
 <p align=left> <img src=https://komarev.com/ghpvc/?username=teddytkz alt=teddytkz /> </p>
 
 
