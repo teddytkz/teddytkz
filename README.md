@@ -20,7 +20,7 @@
 <br><br><br><br><br>  
 
 ***
-![Github Stat]
+
 ## Github Stat
 <p align=left> <img src=https://komarev.com/ghpvc/?username=teddytkz alt=teddytkz /> </p>
 
