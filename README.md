@@ -19,7 +19,9 @@
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flask/flask.png" />
 <br>
 
-### Github Stat
+
+## Github Stat
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=teddytkz alt=teddytkz /> </p>
 
 
