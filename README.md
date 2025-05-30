@@ -38,5 +38,5 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=teddytkz alt=teddytkz /> </p>
 
 
-![Dee's GitHub stats](https://github-readme-stats-sfr1.vercel.app/api?username=teddytkz&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats-sfr1.vercel.app/api/top-langs/?username=teddytkz&layout=compact&langs_count=8) 
+![Dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddytkz&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddytkz&layout=compact&langs_count=8) 
 
